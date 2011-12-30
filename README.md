@@ -42,12 +42,12 @@ One simple solution is to link the xml2jqm.xsl from the xml file:
 
 Another solution is to load both the xml and the xsl files using php.
 
-Demo
-====
+Demos
+=====
 
 View the [online demo](http://users.cscs.wmin.ac.uk/~coloma/jqm/page_jqm1.xml). This is a simple demo that shows how easy it is to create some simple jQuery Mobile pages from XML content using the xml2jqm plugin. This demo consists of a range of header/content/footer combinations to show all possibilities. The content can consist of text or html (including html that also contains jQuery Mobile elements).
 The use of this plugin is in particular suitable if you produce simple repetitive pages, such as product pages, artefacts, blog entries, or image galleries. 
 
-[demo2.xml](http://users.cscs.wmin.ac.uk/~coloma/jqm/demo2.xml) is another demo where the content consists only of images. 
+[demo2.xml](http://users.cscs.wmin.ac.uk/~coloma/jqm/demo2.xml) is another demo where the content consists of images. 
 
 [demo3.xml](http://users.cscs.wmin.ac.uk/~coloma/jqm/demo3.xml) aims at demonstrating the use of the plugin for simple blog entries.
