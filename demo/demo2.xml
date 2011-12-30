@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml2jqm.xsl" ?>
+<pages_all>
+<doc_title>My title</doc_title>
+
+<page>
+<page_id>one</page_id>
+<page_theme>b</page_theme>
+<header>Photo 1</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_01.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>two</page_id>
+<page_theme>b</page_theme>
+<header>Photo 2</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_02.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>three</page_id>
+<page_theme>b</page_theme>
+<header>Photo 3</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_03.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>four</page_id>
+<page_theme>b</page_theme>
+<header>Photo 4</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_04.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>five</page_id>
+<page_theme>b</page_theme>
+<header>Photo 5</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_05.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>six</page_id>
+<page_theme>b</page_theme>
+<header>Photo 6</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content><center><img src="images/IMG_06.jpg" width="90%"/></center></content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>c</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+</pages_all>
