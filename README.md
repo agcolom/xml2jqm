@@ -32,3 +32,8 @@ The page_id is used as the id attribute for the page. All pages in the document 
 The Previous button is displayed on the left side of the header, and links to the previous page in the XML document. 
 The Next button is displayed on the right side of the header, and links to the next page in the XML document. When displaying the first page of the XML document, since there is no "previous" page, the "Previous" button is not displayed. Likewise, when displaying the last page of the XML document, as there is no next page, the "Next" button is not displayed.
 
+Linking your XML file to the xml2jqm.xsl
+========================================
+
+
+
