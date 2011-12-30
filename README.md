@@ -35,7 +35,9 @@ The Next button is displayed on the right side of the header, and links to the n
 Linking your XML file to the xml2jqm.xsl
 ========================================
 
-You can either do the XSL transformation on the server or on the client. One simple solution is to link the xml2jqm.xsl from the xml file:
+You can either do the XSL transformation on the server or on the client. 
+
+One simple solution is to link the xml2jqm.xsl from the xml file:
 <code>&lt;?xml-stylesheet type="text/xsl" href="xml2jqm.xsl" ?&gt;</code>
 
 Another solution is to load both the xml and the xsl files using php.
