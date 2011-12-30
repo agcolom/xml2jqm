@@ -45,4 +45,6 @@ Another solution is to load both the xml and the xsl files using php.
 Demo
 ====
 
-View the [demo](http://users.cscs.wmin.ac.uk/~coloma/jqm/page_jqm1.xml) 
+View the [demo](http://users.cscs.wmin.ac.uk/~coloma/jqm/page_jqm1.xml) This is a simple demo that shows how easy it is to create some jQuery Mobile pages. This is in particular suitable if you produce simple repetitive pages, such as product pages, artefacts, blog entries, or image galleries. 
+
+demo2.xml is another demo where the consists only of images. 
