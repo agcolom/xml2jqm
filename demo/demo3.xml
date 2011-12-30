@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xml2jqm.xsl" ?>
+<pages_all>
+<doc_title>My title</doc_title>
+
+<page>
+<page_id>one</page_id>
+<page_theme>b</page_theme>
+<header>29th Dec 2011</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content>I have created the README.md file. The file is still incomplete and needs further work.</content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>a</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>two</page_id>
+<page_theme>b</page_theme>
+<header>30th Dec 2011</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content>I have completed the README.md file and uploaded the demo files and images. </content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>a</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>three</page_id>
+<page_theme>b</page_theme>
+<header>31st Dev 2011</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content>Last day of the year... no work this evening, and will be celebrating New Year's eve...</content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>a</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+<page>
+<page_id>four</page_id>
+<page_theme>b</page_theme>
+<header>1st January 2012</header>
+<header_theme>a</header_theme>
+<header_position>fixed</header_position>
+<content>Happy New Year 2012!!! </content>
+<content_theme></content_theme>
+<footer>my footer</footer>
+<footer_theme>a</footer_theme>
+<footer_position>fixed</footer_position>
+</page>
+</pages_all>
