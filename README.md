@@ -10,14 +10,14 @@ The XML file
      
      <page>                                            <!-- open page -->
      <page_id>one</page_id>                            <!-- unique page id -->
-     <page_theme>b</page_theme>                        <!-- optional values a - e -->
+     <page_theme>b</page_theme>                        <!-- optional values a-e by default, a-z if defined -->
      <header>Page header</header>                      <!-- optional -->
-     <header_theme></header_theme>                     <!-- optional values a - e -->
+     <header_theme></header_theme>                     <!-- optional values a-e by default, a-z if defined -->
      <header_position>fixed</header_position>          <!-- optional -->
      <content>your content here...</content>           <!-- page content -->
-     <content_theme></content_theme>                   <!-- optional values a - e -->
+     <content_theme></content_theme>                   <!-- optional values a-e by default, a-z if defined -->
      <footer>my footer</footer>                        <!-- optional -->
-     <footer_theme>c</footer_theme>                    <!-- optional values a - e -->
+     <footer_theme>c</footer_theme>                    <!-- optional values a-e by default, a-z if defined -->
      <footer_position>fixed</footer_position>          <!-- optional -->
      </page>                                           <!-- close page -->
      
@@ -48,5 +48,5 @@ Demo
 View the [online demo](http://users.cscs.wmin.ac.uk/~coloma/jqm/page_jqm1.xml). This is a simple demo that shows how easy it is to create some simple jQuery Mobile pages from XML content using the xml2jqm plugin. This demo consists of a range of header/content/footer combinations to show all possibilities. The content can consist of text or html (including html that also contains jQuery Mobile elements).
 The use of this plugin is in particular suitable if you produce simple repetitive pages, such as product pages, artefacts, blog entries, or image galleries. 
 
-demo2.xml is another demo where the content consists only of images. 
-demo3.xml aims at demonstrating simple blog entries.
+[demo2.xml](http://users.cscs.wmin.ac.uk/~coloma/jqm/demo2.xml) is another demo where the content consists only of images. 
+[demo3.xml](http://users.cscs.wmin.ac.uk/~coloma/jqm/demo3.xml) aims at demonstrating the use of the plugin for simple blog entries.
