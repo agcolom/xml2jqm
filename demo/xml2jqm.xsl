@@ -1,12 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DWXMLSource="page_jqm.xml" -->
 <!--
 * jQuery Mobile Framework : xml2jqm plugin
 * Copyright (c) Anne-Gaelle Colom
 * Authored by Anne-Gaelle Colom, coloma@wmin.ac.uk
 * Dual licensed under the MIT or GPL Version 2 licenses.
 -->
-
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- DWXMLSource="page_jqm.xml" -->
 <!DOCTYPE xsl:stylesheet  [
   <!ENTITY nbsp   "&#160;">
 	<!ENTITY copy   "&#169;">
