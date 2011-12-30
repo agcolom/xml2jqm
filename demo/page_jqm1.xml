@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="transform_jqm.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="xml2jqm.xsl" ?>
 <pages_all>
 <doc_title>My title</doc_title>
 
