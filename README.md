@@ -9,16 +9,16 @@ The XML file
      <doc_title>My title</doc_title>
      
      <page>                                            <!-- open page -->
-     <page_id>one</page_id>                            <!-- unique page id -->
-     <page_theme>b</page_theme>                        <!-- optional values a-e by default, a-z if defined -->
-     <header>Page header</header>                      <!-- optional -->
-     <header_theme></header_theme>                     <!-- optional values a-e by default, a-z if defined -->
-     <header_position>fixed</header_position>          <!-- optional -->
-     <content>your content here...</content>           <!-- page content -->
-     <content_theme></content_theme>                   <!-- optional values a-e by default, a-z if defined -->
-     <footer>my footer</footer>                        <!-- optional -->
-     <footer_theme>c</footer_theme>                    <!-- optional values a-e by default, a-z if defined -->
-     <footer_position>fixed</footer_position>          <!-- optional -->
+        <page_id>one</page_id>                         <!-- unique page id -->
+        <page_theme>b</page_theme>                     <!-- optional values a-e by default, a-z if defined -->
+        <header>Page header</header>                   <!-- optional -->
+        <header_theme></header_theme>                  <!-- optional values a-e by default, a-z if defined -->
+        <header_position>fixed</header_position>       <!-- optional values [empty] or fixed -->
+        <content>your content here...</content>        <!-- page content can contain text or html, including jqm elements -->
+        <content_theme></content_theme>                <!-- optional values a-e by default, a-z if defined -->
+        <footer>my footer</footer>                     <!-- optional -->
+        <footer_theme>c</footer_theme>                 <!-- optional values a-e by default, a-z if defined -->
+        <footer_position>fixed</footer_position>       <!-- optional values [empty] or fixed -->
      </page>                                           <!-- close page -->
      
      </pages_all>
